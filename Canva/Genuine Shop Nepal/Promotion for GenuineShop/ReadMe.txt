@@ -1,0 +1,1 @@
+These promotions are created for https://www.instagram.com/thegenuineshopnepal and https://www.instagram.com/beauty.and.essentials.co
