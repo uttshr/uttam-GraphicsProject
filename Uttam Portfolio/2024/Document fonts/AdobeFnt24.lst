@@ -1,0 +1,50 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Audiowide-Regular
+FamilyName:Audiowide
+StyleName:Regular
+FullName:Audiowide Regular
+MenuName:Audiowide
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Uttam Portfolio\2024\Document fonts\Audiowide-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:47676
+FileModTime:1675176653
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Audiowide
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-Italic
+FamilyName:Century Gothic
+StyleName:Italic
+FullName:Century Gothic Italic
+MenuName:Century Gothic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Uttam Portfolio\2024\Document fonts\GOTHICI.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:148520
+FileModTime:1438255672
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Century Gothic Italic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
