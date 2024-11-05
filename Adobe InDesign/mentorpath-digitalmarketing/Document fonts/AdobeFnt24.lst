@@ -11,7 +11,7 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\MinionPro-Regular.otf
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -39,7 +39,7 @@ MenuName:Noto Serif Display
 FamilyPrefix:NotoSerifDisplay
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\NotoSerifDisplay-Italic-VariableFont_wdth,wght.ttf
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing\Document fonts\NotoSerifDisplay-Italic-VariableFont_wdth,wght.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
@@ -63,7 +63,7 @@ MenuName:Raleway Thin
 FamilyPrefix:RalewayRoman
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\Raleway-VariableFont_wght.ttf
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing\Document fonts\Raleway-VariableFont_wght.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
@@ -87,7 +87,7 @@ FullName:Mangal
 MenuName:Mangal
 StyleBits:0
 WritingScript:Devanagari
-OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\mangal.ttf
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing\Document fonts\mangal.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
@@ -111,7 +111,7 @@ FullName:Verdana
 MenuName:Verdana
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\verdana.ttf
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing\Document fonts\verdana.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
@@ -135,7 +135,7 @@ FullName:Wingdings
 MenuName:Wingdings
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\wingding.ttf
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing\Document fonts\wingding.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
