@@ -1,0 +1,151 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:1730803925
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerifDisplay-Italic
+FamilyName:Noto Serif Display
+StyleName:Italic
+FullName:Noto Serif Display Italic
+MenuName:Noto Serif Display
+FamilyPrefix:NotoSerifDisplay
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\NotoSerifDisplay-Italic-VariableFont_wdth,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:1904468
+FileModTime:1730803926
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Serif Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Thin
+FamilyName:Raleway
+StyleName:Thin
+FullName:Raleway Thin
+MenuName:Raleway Thin
+FamilyPrefix:RalewayRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\Raleway-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:309720
+FileModTime:1346955300
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway Thin
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Mangal
+FamilyName:Mangal
+StyleName:Regular
+FullName:Mangal
+MenuName:Mangal
+StyleBits:0
+WritingScript:Devanagari
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\mangal.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:200756
+FileModTime:1651821900
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Mangal
+NameArray:0,Win,1,Mangal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Verdana
+FamilyName:Verdana
+StyleName:Regular
+FullName:Verdana
+MenuName:Verdana
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\verdana.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:243304
+FileModTime:1651900759
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Verdana
+NameArray:0,Win,1,Verdana
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings-Regular
+FamilyName:Wingdings
+StyleName:Regular
+FullName:Wingdings
+MenuName:Wingdings
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Personal files\Bios, Other docs, Scanned documents\uttam-graphicproject\Adobe InDesign\mentorpath-digitalmarketing-Ver03\Document fonts\wingding.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:82180
+FileModTime:1730803926
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Wingdings
+NameArray:0,Win,1,Wingdings
+%EndFont
+
